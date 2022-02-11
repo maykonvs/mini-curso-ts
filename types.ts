@@ -53,3 +53,12 @@ let cart: object
 cart = {
     key: "fi",
 }
+
+// Type Inference
+let message2 = "Mensagem definida";
+message2 = "string nova";
+
+// O e é inferido para o tipo MouseEvent.
+window.addEventListener("click", (e) => {
+    console.log(e.target);
+})
