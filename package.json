@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/maykonvs/mini-curso-ts/issues"
   },
-  "homepage": "https://github.com/maykonvs/mini-curso-ts#readme"
+  "homepage": "https://github.com/maykonvs/mini-curso-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
 }
