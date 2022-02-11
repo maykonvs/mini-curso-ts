@@ -1,0 +1,23 @@
+{
+  "name": "mini-curso-ts",
+  "version": "1.0.0",
+  "description": "Códigos de exemplo, exercícios e testes do mini curso de typescript do Willien Justen disponibilizado no YouTube no endereço https://youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maykonvs/mini-curso-ts.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
+  "author": "Maykon Valério da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maykonvs/mini-curso-ts/issues"
+  },
+  "homepage": "https://github.com/maykonvs/mini-curso-ts#readme"
+}
